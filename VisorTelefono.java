@@ -13,6 +13,7 @@ import java.util.ArrayList;
  * @author Adrian Arias
  * @version 25/04/2017
  */
+//Modificado
 public class VisorTelefono
 {
     // -------------------------------------- CONSTANTES
