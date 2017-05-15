@@ -13,7 +13,11 @@ import java.util.ArrayList;
  * @author Adrian Arias Sánchez
  * @author Adrian Arias 
 >>>>>>> branch 'master' of https://github.com/adrianarias/prueba
+<<<<<<< HEAD
  * @version 25/04/2018
+=======
+ * @version 25/04/2017 aaa
+>>>>>>> branch 'master' of https://github.com/adrianarias/prueba
  */
 //Vaya modificacion
 //Modificado Unico
