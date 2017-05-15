@@ -11,7 +11,6 @@ import java.util.ArrayList;
  * un mayor uso, pero en esta versión sólo los creamos.
  * 
  * @author Adrian Arias S�nchez
-=======
  * @author Adrian Arias 
 >>>>>>> branch 'master' of https://github.com/adrianarias/prueba
  * @version 25/04/2017
