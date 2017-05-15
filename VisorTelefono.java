@@ -10,7 +10,6 @@ import java.util.ArrayList;
  * Describe la clase VisorTeléfono, en ella se crean los botones que permitirán próximamente darles
  * un mayor uso, pero en esta versión sólo los creamos.
  * 
-<<<<<<< HEAD
  * @author Adrian Arias S�nchez
 =======
  * @author Adrian Arias 
